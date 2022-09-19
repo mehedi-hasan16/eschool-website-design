@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-icon{
+width: 200px;
+}
+.banner{
+    width: 100%;
+}
+.bgcolor{
+    background-color: #F0FFF0;
+}
+
+
+.card img{
+    width: 40%;
+    
+
+}
+.card{
+
+    align-items: center;
+    margin: 50px;
+}
+.card-body{
+    background-color: #F8FFFB;
+    ;
+    border:none;
+    border-radius: 5px;
+}
+
+
+.testimonial-pic{
+    height: 150px;
+    
+}
+
+.footer li{
+    list-style-type: none;
+
+}
+.btn-app{
+
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    border: none;
+}
+.color{
+    color: #21B573;
+}
+.online-section img{
+ width: 100%;
+}
+
+.card-title{
+    margin-top: 30px;
+}
